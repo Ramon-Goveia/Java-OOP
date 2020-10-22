@@ -1,2 +1,5 @@
 # Java-OOP
-Laboratório - Análise e Desenvolvimento de Sistemas
+
+Laboratório - Tecnologo - Análise e Desenvolvimento de Sistemas
+
+Estudos de programação orientada a objetos em linguagem java.
