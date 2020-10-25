@@ -4,7 +4,7 @@ Laboratório do Curso Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 Estudos de programação orientada a objetos em linguagem java.
 
-Tópicos Abordados:
+Conceitos Abordados:
 
  - Classes e Objetos.
  - Visibilidade de classes, métodos e atributos.
